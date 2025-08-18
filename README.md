@@ -27,38 +27,38 @@
 
 ## URL 映射表
 ### 核心功能页面
-- 首页: `1d.alibaba-inc.com/_p/3001/index.html#/`
-- 电视剧: `1d.alibaba-inc.com/_p/3001/index.html#/tv-shows`
-- 电影: `1d.alibaba-inc.com/_p/3001/index.html#/movies`
-- 最新热门: `1d.alibaba-inc.com/_p/3001/index.html#/new-and-popular`
-- 我的片单: `1d.alibaba-inc.com/_p/3001/index.html#/my-list`
-- 按语言浏览: `1d.alibaba-inc.com/_p/3001/index.html#/browse-by-language`
-- 标签分类: `1d.alibaba-inc.com/_p/3001/index.html#/tags`
-- 视频播放器: `1d.alibaba-inc.com/_p/3001/index.html#/watch/{id}` (例如: `/watch/1`)
-- 搜索结果: `1d.alibaba-inc.com/_p/3001/index.html#/search?q={query}`
+- 首页: `_p/3001/index.html#/`
+- 电视剧: `_p/3001/index.html#/tv-shows`
+- 电影: `_p/3001/index.html#/movies`
+- 最新热门: `_p/3001/index.html#/new-and-popular`
+- 我的片单: `_p/3001/index.html#/my-list`
+- 按语言浏览: `_p/3001/index.html#/browse-by-language`
+- 标签分类: `_p/3001/index.html#/tags`
+- 视频播放器: `_p/3001/index.html#/watch/{id}` (例如: `/watch/1`)
+- 搜索结果: `_p/3001/index.html#/search?q={query}`
 
 ### 个性化推荐系统
-- 个性化推荐: `1d.alibaba-inc.com/_p/3001/index.html#/recommendations`
-- 实时热门趋势: `1d.alibaba-inc.com/_p/3001/index.html#/trending`
-- 专为你推荐: `1d.alibaba-inc.com/_p/3001/index.html#/for-you`
+- 个性化推荐: `_p/3001/index.html#/recommendations`
+- 实时热门趋势: `_p/3001/index.html#/trending`
+- 专为你推荐: `_p/3001/index.html#/for-you`
 
 ### 内容管理系统
-- 创作者工作台: `1d.alibaba-inc.com/_p/3001/index.html#/creator-studio`
-- 视频上传: `1d.alibaba-inc.com/_p/3001/index.html#/upload`
-- 数据分析: `1d.alibaba-inc.com/_p/3001/index.html#/analytics`
+- 创作者工作台: `_p/3001/index.html#/creator-studio`
+- 视频上传: `_p/3001/index.html#/upload`
+- 数据分析: `_p/3001/index.html#/analytics`
 
 ### 商业功能系统
-- 订阅管理: `1d.alibaba-inc.com/_p/3001/index.html#/subscription`
-- 账单历史: `1d.alibaba-inc.com/_p/3001/index.html#/billing`
-- 礼品卡中心: `1d.alibaba-inc.com/_p/3001/index.html#/gift-cards`
-- 推荐奖励: `1d.alibaba-inc.com/_p/3001/index.html#/referral`
+- 订阅管理: `_p/3001/index.html#/subscription`
+- 账单历史: `_p/3001/index.html#/billing`
+- 礼品卡中心: `_p/3001/index.html#/gift-cards`
+- 推荐奖励: `_p/3001/index.html#/referral`
 
 ### 用户管理页面
-- 用户个人资料: `1d.alibaba-inc.com/_p/3001/index.html#/profile`
-- 内容详情: `1d.alibaba-inc.com/_p/3001/index.html#/content/{id}` (例如: `/content/1`)
-- 下载管理: `1d.alibaba-inc.com/_p/3001/index.html#/downloads`
-- 账户设置: `1d.alibaba-inc.com/_p/3001/index.html#/account-settings`
-- 帮助中心: `1d.alibaba-inc.com/_p/3001/index.html#/help`
+- 用户个人资料: `_p/3001/index.html#/profile`
+- 内容详情: `_p/3001/index.html#/content/{id}` (例如: `/content/1`)
+- 下载管理: `_p/3001/index.html#/downloads`
+- 账户设置: `_p/3001/index.html#/account-settings`
+- 帮助中心: `_p/3001/index.html#/help`
 
 ## 技术栈
 - React 18.2.0
