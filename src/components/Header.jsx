@@ -65,6 +65,9 @@ const Header = memo(function Header() {
             <Link to="/browse-by-language" className={`transition-colors ${
               location.pathname === '/browse-by-language' ? 'text-white font-semibold' : 'text-gray-300 hover:text-white'
             }`}>按语言浏览</Link>
+            <Link to="/tags" className={`transition-colors ${
+              location.pathname === '/tags' ? 'text-white font-semibold' : 'text-gray-300 hover:text-white'
+            }`}>标签分类</Link>
           </nav>
           
           <button 
